@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LeonSecret
-- 👀 I’m interested in My Prokect: Extraordinariamente Increible
-- 🌱 I’m currently learning Galaxi
-- 💞️ I’m looking to collaborate on My Project
-- 📫 How to reach me Discord my user name:LeonSecret
+Hello Im the creator of Zareh's Optimized! [https://modrinth.com/modpack/zarehoptimized]
+- 📫 How to reach me Discord my user name:GrhZareh
 
 <!---
 LeonSecret/LeonSecret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
